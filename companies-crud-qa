@@ -1,0 +1,6 @@
+db:
+  connection-timeout: 20000
+  maximum-pool-size: 5
+  password: 43PS!QX845M
+  username: debuggeandoideas-qa
+  url: jdbc:postgresql://localhost:5432/companies-qa
