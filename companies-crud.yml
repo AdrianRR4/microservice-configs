@@ -1,8 +1,6 @@
-spring:
-  datasource:
-    hikari:
-      connection-timeout: 20000
-      maximum-pool-size: 5
-    password: udemy
-    username: debuggeandoideas
-    url: jdbc:postgresql://localhost:5432/companies
+db:
+  username: debuggeandoideas
+  connection-timeout: 20000
+  maximum-pool-size: 5
+  password: udemy
+  url: jdbc:postgresql://localhost:5432/companies
