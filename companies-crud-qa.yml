@@ -3,4 +3,4 @@ db:
   maximum-pool-size: 5
   password: 43PS!QX845M
   username: debuggeandoideas-qa
-  url: jdbc:postgresql://localhost:5432/companies-qa
+  url: jdbc:postgresql://localhost:5234/companies-qa
